@@ -230,4 +230,9 @@ window.addEventListener('DOMContentLoaded', function() {
         'big'
     ).render();
 
+    // Forms
+
+    const forms = document.querySelectorAll('form');
+    
+
 });
